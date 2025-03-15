@@ -40,7 +40,7 @@ def insert_records_into_table():
                 return "Model not match in DB"  
 
             db_session.commit()
-        flash( f"Table {table_name} records inserted successfully")
+        flash( f"Table {table_name} records inserted successfully", 'success')
 
         return render_template('file_upload.html')
     else:
