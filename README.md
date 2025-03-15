@@ -24,3 +24,6 @@ There is 3 Tab on Top
 Booking List:-  Display all Booking list in table and option to cancel booking
 Booking Page:-  When you click booking page 2 dropdown first select Inventory item and select member name
 Upload CSV file:-  If you have list of member and inventory csv file so you can just select model and upload csv file 
+
+
+For your reference i uploaded both member, inventory file into csv_file folder
